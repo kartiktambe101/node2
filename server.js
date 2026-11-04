@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
         <h1>Hello everyone</h1>
         <h2>My Node.js Project</h2>
         <h3>Deployed using Jenkins + PM2</h3>
-        <h3>Version: 1.0.0</h3>
+        <h3>Version: 2.0.0</h3>
     `);
 });
 
